@@ -3,9 +3,8 @@
 🎓 B.Tech Information Technology Student  
 📍 India
 📧 keerthana.s0404@gmail.com  
-🔗 [LinkedIn](in/keerthana-shaktivel)  
-💻 [GitHub](github.com/KeerthanaS-004)
-
+🔗 [LinkedIn](https://linkedin.com/in/keerthana-shaktivel-9aa1532a4)  
+💻 [GitHub](https://github.com/Keerthana004)
 
 ## 🚀 About Me
 
