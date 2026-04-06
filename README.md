@@ -33,7 +33,7 @@ I enjoy learning step by step and building practical projects to improve my tech
 - CSS  
 - Learning JavaScript  
 
-### Backend
+### 👨‍💻 Backend
 - Spring Boot
 - Rest APIs
 
