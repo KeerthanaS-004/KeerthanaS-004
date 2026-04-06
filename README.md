@@ -2,11 +2,12 @@
 
 🎓 B.Tech Information Technology Student  
 📍 India
+
 📫 Connect with me:
 
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="30"/>](mailto:keerthana.s0404@gmail.com)
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30"/>](https://linkedin.com/in/keerthana-shaktivel-9aa1532a4)
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30"/>](https://github.com/Keerthana004)
+- [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="30"/>](mailto:keerthana.s0404@gmail.com)
+- [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30"/>](https://linkedin.com/in/keerthana-shaktivel-9aa1532a4)
+- [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30"/>](https://github.com/Keerthana004)
 ---
 
 ## 🚀 About Me
