@@ -38,7 +38,7 @@
 
 ## Featured Projects
 
-### 🌿 EcoBasaarX – Carbon Footprint Aware Shopping Assistant
+### EcoBasaarX – Carbon Footprint Aware Shopping Assistant
 Java Spring Boot–based web application developed during Infosys Springboard Virtual Internship 6.0, focused on promoting eco-friendly shopping decisions through frontend-backend integration and MySQL support.
 
 🔗 Repository:  
@@ -54,7 +54,7 @@ https://github.com/KeerthanaS-004/myFirstSpringBoot
 
 ---
 
-## 🏆 Hackathons & Achievements
+## Hackathons & Achievements
 
 - 🥇 Shakthi Hackathon 1.0 – Finalist
 - 💡 Smart India Hackathon 2025 – Cleared Internal Level
