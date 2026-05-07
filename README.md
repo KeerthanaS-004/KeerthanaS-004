@@ -1,4 +1,4 @@
-# 🚀 Keerthana S
+# Keerthana S
 
 ### Exploring Backend Engineering, Scalable Systems & User-Focused Development
 
@@ -8,7 +8,7 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 - 🔭 Building foundational skills in Java, Spring Boot, and MySQL
 - 🌱 Exploring backend development and scalable web applications
@@ -18,7 +18,7 @@
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=java,spring,mysql,html,css,js,git,vscode,idea,figma" />
@@ -26,7 +26,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=KeerthanaS-004&show_icons=true&theme=tokyonight" height="180em"/>
@@ -36,7 +36,7 @@
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 ### 🌿 EcoBasaarX – Carbon Footprint Aware Shopping Assistant
 Java Spring Boot–based web application developed during Infosys Springboard Virtual Internship 6.0, focused on promoting eco-friendly shopping decisions through frontend-backend integration and MySQL support.
@@ -46,7 +46,7 @@ https://github.com/KeerthanaS-004/EcoBasaarX-Carbon-Footprint-Aware-Shopping-Ass
 
 ---
 
-### ☕ MyFirstSpringBoot
+### MyFirstSpringBoot
 Basic Spring Boot project created while learning backend development concepts and application workflows.
 
 🔗 Repository:  
@@ -63,21 +63,16 @@ https://github.com/KeerthanaS-004/myFirstSpringBoot
 
 ---
 
-## 🌐 Connect With Me
+## Connect
 
-<p align="left">
-  <a href="mailto:keerthana.s0404@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" width="48"/>
-  </a>
+LinkedIn:  
+https://linkedin.com/in/keerthana-shaktivel-9aa1532a4
 
-  <a href="https://linkedin.com/in/keerthana-shaktivel-9aa1532a4">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="48"/>
-  </a>
+Email:  
+keerthana.s0404@gmail.com
 
-  <a href="https://github.com/KeerthanaS-004">
-    <img src="https://skillicons.dev/icons?i=github" width="48"/>
-  </a>
-</p>
+GitHub:  
+https://github.com/KeerthanaS-004
 
 ---
 
