@@ -10,7 +10,7 @@
 
 ## About Me
 
-- 🔭 Building foundational skills in Java, Spring Boot, and MySQL
+- 🔭 Building skills in Java, Spring Boot, and MySQL
 - 🌱 Exploring backend development and scalable web applications
 - 💡 Interested in structured system design and problem-solving
 - 🎯 Focused on developing efficient and user-focused solutions
